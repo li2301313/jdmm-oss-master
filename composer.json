@@ -2,7 +2,7 @@
     "name": "jdmm/oss",
     "type": "library",
     "description": "用于文件的上传本地以及oss",
-    "license": "Apache-2.0,upload,oss",
+    "license": "MIT",
     "require": {
         "php": ">=7.0",
         "aws/aws-sdk-php": "^3.125",
